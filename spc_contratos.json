@@ -1,15 +1,15 @@
 [
   {
-    "key" : "SE",
-    "name" : "Sergipe",
-    "latitude" : -10.9091,
-    "longitude" : -37.0677
+    "key" : "AC",
+    "name" : "AC - IAPEN",
+    "latitude" : -9.966836,
+    "longitude" : -67.813035
   },
   {
-    "key" : "PA",
-    "name" : "Pará",
-    "latitude" : -1.4554,
-    "longitude" : -48.4898
+    "key" : "BA",
+    "name" : "BA - SEAP",
+    "latitude" : -14.853648,
+    "longitude" : -40.838025
   },
   {
     "key" : "MG",
@@ -78,12 +78,6 @@
     "longitude" : -51.0694
   },
   {
-    "key" : "AL",
-    "name" : "Alagoas",
-    "latitude" : -9.66599,
-    "longitude" : -35.735
-  },
-  {
     "key" : "AM",
     "name" : "Amazonas",
     "latitude" : -3.11866,
@@ -120,22 +114,10 @@
     "longitude" : -34.8771
   },
   {
-    "key" : "AC",
-    "name" : "Acre",
-    "latitude" : -9.97499,
-    "longitude" : -67.8243
-  },
-  {
     "key" : "RJ",
     "name" : "Rio de Janeiro",
     "latitude" : -22.9129,
     "longitude" : -43.2003
-  },
-  {
-    "key" : "BA",
-    "name" : "Bahia",
-    "latitude" : -12.9718,
-    "longitude" : -38.5011
   },
   {
     "key" : "MA",
