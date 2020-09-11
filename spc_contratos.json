@@ -6,6 +6,12 @@
     "longitude" : -67.813035
   },
   {
+    "key" : "AM",
+    "name" : "AM - SEAP",
+    "latitude" : -3.134734,
+    "longitude" : -60.028639
+  },
+  {
     "key" : "BA",
     "name" : "BA - SEAP",
     "latitude" : -14.853648,
