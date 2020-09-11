@@ -12,16 +12,16 @@
     "longitude" : -40.838025
   },
   {
-    "key" : "MG",
-    "name" : "Minas Gerais",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
+    "key" : "CE",
+    "name" : "CE - SEJUS",
+    "latitude" : -3.727026,
+    "longitude" : -38.511573
   },
   {
-    "key" : "RR",
-    "name" : "Roraima",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
+    "key" : "GO",
+    "name" : "GO - SSP",
+    "latitude" : -16.695871,
+    "longitude" : -49.272426
   },
   {
     "key" : "DF",
