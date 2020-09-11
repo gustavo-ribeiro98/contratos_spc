@@ -30,111 +30,81 @@
     "longitude" : -49.272426
   },
   {
-    "key" : "DF",
-    "name" : "Distrito Federal",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "key" : "JFPR",
+    "name" : "JF - PR",
+    "latitude" : -25.403739,
+    "longitude" : -49.257668
   },
-  {
+{
+    "key" : "JFRS",
+    "name" : "JF - RS",
+    "latitude" : -30.039861,
+    "longitude" : -51.235592
+  },
+{
+    "key" : "JFSP",
+    "name" : "JF - SP",
+    "latitude" : -23.560675,
+    "longitude" : -46.656730
+  },
+{
+    "key" : "MG",
+    "name" : "MG - SEJUSP",
+    "latitude" : -19.783939,
+    "longitude" : -43.949191
+  },
+{
     "key" : "MS",
-    "name" : "Mato Grosso do Sul",
-    "latitude" : -20.4486,
-    "longitude" : -54.6295
+    "name" : "MS - AGEPEN",
+    "latitude" : -20.432216,
+    "longitude" : -54.600544
   },
-  {
+{
     "key" : "MT",
-    "name" : "Mato Grosso",
-    "latitude" : -15.601,
-    "longitude" : -56.0974
+    "name" : "MT - SESP",
+    "latitude" : -15.568856,
+    "longitude" : -56.071755
   },
-  {
-    "key" : "PR",
-    "name" : "Paraná",
-    "latitude" : -25.4195,
-    "longitude" : -49.2646
-  },
-  {
-    "key" : "SC",
-    "name" : "Santa Catarina",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
-  },
-  {
-    "key" : "GO",
-    "name" : "Goiás",
-    "latitude" : -16.6864,
-    "longitude" : -49.2643
-  },
-  {
-    "key" : "PB",
-    "name" : "Paraíba",
-    "latitude" : -7.11509,
-    "longitude" : -34.8641
-  },
-  {
-    "key" : "AP",
-    "name" : "Amapá",
-    "latitude" : 0.034934,
-    "longitude" : -51.0694
-  },
-  {
-    "key" : "RN",
-    "name" : "Rio Grande do Norte",
-    "latitude" : -5.79357,
-    "longitude" : -35.1986
-  },
-  {
-    "key" : "TO",
-    "name" : "Tocantins",
-    "latitude" : -10.24,
-    "longitude" : -48.3558
-  },
-  {
-    "key" : "RS",
-    "name" : "Rio Grande do Sul",
-    "latitude" : -30.0318,
-    "longitude" : -51.2065
-  },
-  {
-    "key" : "RO",
-    "name" : "Rondônia",
-    "latitude" : -8.76077,
-    "longitude" : -63.8999
-  },
-  {
+{
     "key" : "PE",
-    "name" : "Pernambuco",
-    "latitude" : -8.04666,
-    "longitude" : -34.8771
+    "name" : "PE - SERES",
+    "latitude" : -8.056059,
+    "longitude" : -34.883066
   },
-  {
-    "key" : "RJ",
-    "name" : "Rio de Janeiro",
-    "latitude" : -22.9129,
-    "longitude" : -43.2003
-  },
-  {
-    "key" : "MA",
-    "name" : "Maranhão",
-    "latitude" : -2.53874,
-    "longitude" : -44.2825
-  },
-  {
-    "key" : "SP",
-    "name" : "São Paulo",
-    "latitude" : -23.5329,
-    "longitude" : -46.6395
-  },
-  {
+{
     "key" : "PI",
-    "name" : "Piauí",
-    "latitude" : -5.09194,
-    "longitude" : -42.8034
+    "name" : "PI - SEJUS",
+    "latitude" : -5.109744,
+    "longitude" : -42.813111
   },
-  {
-    "key" : "ES",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+{
+    "key" : "PR",
+    "name" : "PR - SEJU",
+    "latitude" : -25.425421,
+    "longitude" : -49.284599
+  },
+{
+    "key" : "RJ",
+    "name" : "RJ - SEAP",
+    "latitude" : -22.902944,
+    "longitude" : -43.190985
+  },
+{
+    "key" : "RN",
+    "name" : "RN - SEAP",
+    "latitude" : -5.826452,
+    "longitude" : -35.209032
+  },
+{
+    "key" : "SC",
+    "name" : "SC - SJC",
+    "latitude" : -27.587167,
+    "longitude" : -48.578417
+  },
+{
+    "key" : "SP",
+    "name" : "SP - SAP",
+    "latitude" : -23.505223,
+    "longitude" : -46.621427
   }
 ]
